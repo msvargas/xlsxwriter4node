@@ -1,5 +1,5 @@
 {
-  "name": "libxlsxwriter4nodejs",
+  "name": "xlsxwriter4node",
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
