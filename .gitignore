@@ -4,7 +4,7 @@ build
 third-party-*.zip
 third-party
 precompiled
-demo.xlsx
+*.xlsx
 /*/**/*.so*
 /*/**/*.lib*
 /*/**/*.a*
