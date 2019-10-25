@@ -3,7 +3,7 @@
 Libxlsxwriter: A Nodejs library for creating Excel XLSX files (Port from C [libxslxwriter](https://github.com/jmcnamara/libxlsxwriter)).
 
 
-![demo image](http://xlsxwriter4node.github.io/assets/demo.png)
+![demo image](https://punisher97.github.io/xlsxwriter4node/assets/demo.png)
 
 
 ## The libxlsxwriter library
