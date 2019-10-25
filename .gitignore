@@ -1,0 +1,13 @@
+node_modules
+temp
+build
+third-party-*.zip
+third-party
+precompiled
+demo.xlsx
+/*/**/*.so*
+/*/**/*.lib*
+/*/**/*.a*
+/*/**/share
+/*/**/*.dll*
+/*/**/*.pdb*
